@@ -65,5 +65,3 @@ Currently, I work as a **Cybersecurity & AI Research Assistant**, developing sec
 
 * **LinkedIn:** [Issa Batarseh](https://linkedin.com/in/issa-batarseh-4259b3221)
 * **Email:** issasalehbatarseh03@gmail.com
-
-![Issa's GitHub stats](https://github-readme-stats.vercel.app/api?username=batarseh-lgtm&show_icons=true&theme=radical)
