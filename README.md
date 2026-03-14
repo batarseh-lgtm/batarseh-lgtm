@@ -90,8 +90,10 @@ Currently working as a **Cybersecurity & AI Research Assistant**, building secur
 | **AWS Certified Cloud Practitioner** | Amazon Web Services | ✅ Active |
 | **COBIT® 2019 Foundation** | ISACA | ✅ Active |
 | **Junior Cybersecurity Analyst** | Cisco | ✅ Active |
-
-
+| **Cyber Threat Management** | Cisco | ✅ Active |
+| **Cybersecurity Essentials** | Cisco | ✅ Active |
+| **Network Support and Security** | Cisco | ✅ Active |
+| **Python Essentials 1&2** | Cisco | ✅ Active |
 ---
 
 ## 📫 Connect with Me
