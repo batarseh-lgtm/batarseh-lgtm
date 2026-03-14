@@ -91,7 +91,6 @@ Currently working as a **Cybersecurity & AI Research Assistant**, building secur
 | **COBIT® 2019 Foundation** | ISACA | ✅ Active |
 | **Junior Cybersecurity Analyst** | Cisco | ✅ Active |
 
-**HTB Modules Completed:** SQL Injection Fundamentals · Cross-Site Scripting (XSS) · Command Injections · Web Fuzzing · SQLMap Essentials
 
 ---
 
